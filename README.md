@@ -7,3 +7,10 @@ O principal critério de avaliação não é a corretude das respostas e sim a l
 ## Entregáveis
 O candidato deverá fazer um fork deste repositório e subir os entregáveis no diretório output. 
 Poderá ser qualquer formato legível de conteúdo (pdf, docx, md, sql, txt, etc)
+
+## Partes
+* [Parte 1](parte1.md): Configuração de um Ambiente DBaaS (MySQL no AWS RDS)
+* [Parte 2](parte2.md): Otimização de Performance
+* [Parte 3](parte3.md): Observabilidade e Monitoramento
+* [Parte 4](parte4.md): Manutenabilidade e Resiliência
+* [Parte 5](parte5.md): Raciocínio Lógico e Visão Sistêmica
